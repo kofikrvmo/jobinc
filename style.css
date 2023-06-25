@@ -48,6 +48,7 @@ h1 {
   width: 400px;
   display: flex;
   justify-content: space-between;
+  margin-left: 35rem;
 }
 
 .navbar-menu > a {

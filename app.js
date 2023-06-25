@@ -46,3 +46,7 @@ var swiper = new Swiper(".myswiper",{
 
     }
 })
+
+function join(){
+    window.location.href="Login/signup.html";
+}
